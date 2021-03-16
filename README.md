@@ -19,16 +19,14 @@ Desenvolvido por [**Roberlan Carvalho**](https://roberlancarvalho.com/) em base 
 
 Para rodar a aplicação local:
 
-1. Instalação das dependencias e node_modules:
+1. Instalação das dependencias e node_modules, rode no terminal dentro da pasta da aplicação:
 `
 yarn
 `
-2. Rodar a aplicação:
-
+2. Rodar a aplicação, rode no terminal:
 `
 yarn dev
 `
-
 
 ## O projeto
 
