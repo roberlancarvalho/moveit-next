@@ -9,7 +9,7 @@ Projeto usando a técnica Pomodoro, desenvolvido em [**NextJS**](https://nextjs.
 
 ## Sobre o Moveit
 
-O [**Moveit**](https://moveit-next-rob.vercel.app/) é uma aplicação voltada à ajudar estudantes no controle do tempo de estudos e pausas, afim da obtenção do aumento de produtividade utilizando o método [**Pomodoro**](https://pt.wikipedia.org/wiki/T%C3%A9cnica_pomodoro) para pauas e exercícios físicos e mentais durante o tempo de estudo.
+O [**Moveit**](https://moveit-next-rob.vercel.app/) é uma aplicação voltada à ajudar estudantes no controle do tempo de estudos e pausas, afim da obtenção do aumento de produtividade utilizando a técnica [**Pomodoro**](https://pt.wikipedia.org/wiki/T%C3%A9cnica_pomodoro) para pauas e exercícios físicos e mentais durante o tempo de estudo.
 
 ## Autor
 
