@@ -15,6 +15,21 @@ O [**Moveit**](https://moveit-next-rob.vercel.app/) é uma aplicação voltada �
 
 Desenvolvido por [**Roberlan Carvalho**](https://roberlancarvalho.com/) em base de aulas da [NLW - Next Level Week](https://nextlevelweek.com/) da [Rocketseat](https://rocketseat.com.br/).
 
+## Rodar a aplicação no localhost
+
+Para rodar a aplicação local:
+
+1. Instalação das dependencias e node_modules:
+`
+yarn
+`
+2. Rodar a aplicação:
+
+`
+yarn dev
+`
+
+
 ## O projeto
 
 O projeto em produção está disponível em https://moveit-next-rob.vercel.app/
